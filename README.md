@@ -37,5 +37,3 @@ Repository: [https://github.com/faqih-rus/api-babymeter.git](https://github.com/
 Proyek Capstone BabyMeter merupakan hasil kerja keras dan kolaborasi antara tiga tim yang berbeda, dengan tujuan untuk memberikan solusi yang komprehensif dalam memantau pertumbuhan dan kesehatan bayi. Kami berharap aplikasi ini dapat membantu para profesional kesehatan dan orang tua dalam memberikan perawatan yang lebih baik untuk bayi mereka.
 
 ---
-
-Dengan format di atas, profil capstone project BabyMeter Anda akan terlihat menarik dan profesional di GitHub.
